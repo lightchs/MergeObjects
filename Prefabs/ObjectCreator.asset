@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89e187250a5f48c6938a1fc69d9440f4, type: 3}
+  m_Name: ObjectCreator
+  m_EditorClassIdentifier: 
+  CoinObject: {fileID: 6221890041030920807, guid: 407035f49ff371647b8838f3cfae427b, type: 3}
+  CornObject: {fileID: 3498263836591178753, guid: cfce4b07cb395bd48a46d912f6a06b8a, type: 3}
+  BabyCornObject: {fileID: 2695895684733510809, guid: 8bae9859889aadb4d9e4b17409ba3567, type: 3}
+  BadDoghouseObject: {fileID: 1721142566002367580, guid: a150bb7e09254d04fa03940e0ea55188, type: 3}
+  DoghouseObject: {fileID: 4188391228647157751, guid: 6b243b583a3d253408e44cb1941e393b, type: 3}
